@@ -21,7 +21,7 @@
 - [Twitter/X](https://twitter.com/KwizeraCaleb)
 - [LinkedIn](https://www.linkedin.com/in/kwizera-caleb-391716292/)
 - [Bēhance/Portfolio](https://www.behance.net/kwizeracaleb)
-- [Blog/Website](http://designui.infinityfreeapp.com)
+- [Blog/Website](https://designui.infinityfreeapp.com)
 
   Excited to connect with fellow artists and designers, share techniques, and collaborate on inspiring projects!<br>
   I also talk about:<br>
