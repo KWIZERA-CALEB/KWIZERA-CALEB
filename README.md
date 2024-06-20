@@ -11,8 +11,8 @@
 ## Technologies I Work With
 
 - **3D Software**: Blender
-- **Front-end**: HTML5, CSS3, Jquery, Bootstrap, Tailwind CSS
-- **Back-end**: PHP, Larvel
+- **Front-end**: React JS, Vue JS, Tailwind CSS, Alpine JS
+- **Back-end**: PHP, Larvel, Django, Python, Node js
 - **UI/UX Tools**: Figma, Lunacy, Balsamiq
 
 ## Connect with Me
