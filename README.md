@@ -12,7 +12,7 @@
 
 - **3D Software**: Blender
 - **Front-end**: React JS, Vue JS, Tailwind CSS, Alpine JS
-- **Back-end**: PHP, Larvel, Django, Python, Node js
+- **Back-end**: PHP, Laravel, Django, Python, Node js
 - **UI/UX Tools**: Figma, Lunacy, Balsamiq
 
 ## Connect with Me
