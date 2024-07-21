@@ -9,10 +9,10 @@
 - **UI/UX Tools**: Figma
   
 ## Deployed Projects
--**[BenEstate](): With PHP, Tailwindcss, MySQL**
--**[Mofix](): With MERN Stack**
--**[React Shop](): With Reactjs & Laravel**
--**[SimpleBlog](https://designui.infinityfreeapp.com): With Laravel**
+- **[BenEstate](): PHP, Tailwindcss, MySQL**
+- **[Mofix](mofix.vercel.app): MERN Stack**
+- **[React Shop](): Reactjs & Laravel**
+- **[SimpleBlog](https://designui.infinityfreeapp.com): Laravel**
 
 <div style="display: flex; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=KWIZERA-CALEB&show_icons=true&count_private=true&include_all_commits=true&theme=radical" style="width: 425px;" alt="GitHub Contributions Graph">
