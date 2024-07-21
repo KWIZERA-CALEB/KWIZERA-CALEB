@@ -9,7 +9,7 @@
 - **UI/UX Tools**: Figma
   
 ## Deployed Projects
-- **[BenEstate](): PHP, Tailwindcss, MySQL**
+- **[BenEstate](http://benestate.infinityfreeapp.com): PHP, Tailwindcss, MySQL**
 - **[Mofix](mofix.vercel.app): MERN Stack**
 - **[React Shop](): Reactjs & Laravel**
 - **[SimpleBlog](https://designui.infinityfreeapp.com): Laravel**
