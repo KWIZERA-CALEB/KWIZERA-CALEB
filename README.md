@@ -15,14 +15,11 @@
 - **Back-end**: PHP, Laravel, Django, Python, Node js
 - **UI/UX Tools**: Figma, Lunacy, Balsamiq
 
-<di>
-  <div style="width: '170px';">
-      ![GitHub Contributions Graph](https://github-readme-stats.vercel.app/api?username=KWIZERA-CALEB&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
-  </div>
-  <div style="width: '170px';">
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KWIZERA-CALEB&layout=compact&theme=radical&card_width=445)
-  </div>
+<div style="display: flex; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=KWIZERA-CALEB&show_icons=true&count_private=true&include_all_commits=true&theme=radical" style="width: 170px;" alt="GitHub Contributions Graph">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KWIZERA-CALEB&layout=compact&theme=radical&card_width=445" style="width: 170px;" alt="Top Languages">
 </div>
+
 
 
 
