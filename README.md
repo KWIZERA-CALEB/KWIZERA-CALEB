@@ -17,7 +17,7 @@
 
 <div style="display: flex; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=KWIZERA-CALEB&show_icons=true&count_private=true&include_all_commits=true&theme=radical" style="width: 425px;" alt="GitHub Contributions Graph">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KWIZERA-CALEB&layout=compact&theme=radical&card_width=445" style="width: 250px;" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KWIZERA-CALEB&layout=compact&theme=radical&card_width=445" style="width: 350px;" alt="Top Languages">
 </div>
 
 
