@@ -16,7 +16,7 @@
 - **UI/UX Tools**: Figma, Lunacy, Balsamiq
 
 ![GitHub Contributions Graph](https://github-readme-stats.vercel.app/api?username=KWIZERA-CALEB&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KWIZERA-CALEB&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KWIZERA-CALEB&layout=compact&theme=radical&card_width=445)
 
 
 
