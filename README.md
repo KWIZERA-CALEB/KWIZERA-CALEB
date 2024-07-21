@@ -15,7 +15,7 @@
 - **Back-end**: PHP, Laravel, Django, Python, Node js
 - **UI/UX Tools**: Figma, Lunacy, Balsamiq
 
-![GitHub Contributions Graph](https://github-readme-stats.vercel.app/api?username=KWIZERA-CALEB&show_icons=true&count_private=true&include_all_commits=true&hide=contribs,issues&theme=radical)
+![GitHub Contributions Graph](https://github-readme-stats.vercel.app/api?username=KWIZERA-CALEB&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KWIZERA-CALEB&layout=compact&theme=radical)
 
 
