@@ -14,7 +14,7 @@
 - **[React Shop](): Reactjs & Laravel**
 - **[SimpleBlog](https://designui.infinityfreeapp.com): Laravel**
 
-## Stats
+## Stats ![Profile Views](https://komarev.com/ghpvc/?username=KWIZERA-CALEB&color=blue&style=flat-square)
 <div style="display: flex; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=KWIZERA-CALEB&show_icons=true&count_private=true&include_all_commits=true&theme=radical" style="width: 350px;" alt="GitHub Contributions Graph">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KWIZERA-CALEB&layout=compact&theme=radical&card_width=445" style="width: 380px;" alt="Top Languages">
