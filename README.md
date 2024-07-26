@@ -11,7 +11,7 @@
 ## Deployed Projects
 - **[BenEstate](http://benestate.infinityfreeapp.com): PHP, Tailwindcss, MySQL**
 - **[Mofix](mofix.vercel.app): MERN Stack**
-- **[React Shop](): Reactjs & Laravel**
+- **[Todo Ment](https://todoment.vercel.app): Reactjs & Django & Mysql**
 - **[SimpleBlog](https://designui.infinityfreeapp.com): Laravel**
 
 ## Stats ![Profile Views](https://komarev.com/ghpvc/?username=KWIZERA-CALEB&color=blue&style=flat-square)
