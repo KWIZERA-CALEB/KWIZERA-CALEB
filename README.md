@@ -1,12 +1,12 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 ## Am Caleb Kwizera
-- 👨‍💻 I specialize in Full stack development and UI/UX Design, and I'm always eager to explore new technologies.
+- 👨‍💻 I specialize in Full stack development | ML, and I'm always eager to explore new technologies.
 - 💬 Feel free to reach out to me [LinkedIn](https://www.linkedin.com/in/kwizera-caleb-391716292/)
 
 ## Tech Stacks
-- **Front-end**: React JS, Vue JS, Tailwind CSS, Jquery
+- **Front-end**: React JS, Nextjs, Tailwind CSS, Jquery
 - **Back-end**: PHP, Laravel, Django, Python, Node js
-- **UI/UX Tools**: Figma
+- **ML**: Tensorflow
   
 ## Deployed Projects
 - **[BenEstate](http://benestate.infinityfreeapp.com): PHP, Tailwindcss, MySQL**
