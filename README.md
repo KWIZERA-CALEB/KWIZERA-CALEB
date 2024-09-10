@@ -10,7 +10,7 @@
   
 ## Deployed Projects
 - **[BenEstate](http://benestate.infinityfreeapp.com): PHP, Tailwindcss, MySQL**
-- **[Mofix](mofix.vercel.app): MERN Stack**
+- **[Mofix](https://mofix.vercel.app): MERN Stack**
 - **[Todo Ment](https://todoment.vercel.app): Reactjs & Django & Mysql**
 - **[SimpleBlog](https://designui.infinityfreeapp.com): Laravel**
 
