@@ -13,6 +13,7 @@
 - **[Mofix](https://mofix.vercel.app): MERN Stack**
 - **[Todo Ment](https://todoment.vercel.app): Reactjs & Django & Mysql**
 - **[SimpleBlog](https://designui.infinityfreeapp.com): Laravel**
+- **[Tour](): Nextjs**
 
 ## Stats ![Profile Views](https://komarev.com/ghpvc/?username=KWIZERA-CALEB&color=blue&style=flat-square)
 <div style="display: flex; gap: 10px;">
