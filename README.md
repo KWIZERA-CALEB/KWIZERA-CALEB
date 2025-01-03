@@ -8,13 +8,6 @@
 - **Back-end**: PHP, Laravel, Django, Python, Node js
 - **Machine Learning**: Tensorflow
   
-### Deployed projects
-- **[BenEstate](http://benestate.infinityfreeapp.com): PHP, Tailwindcss, MySQL**
-- **[Mofix](https://mofix.vercel.app): MERN Stack**
-- **[Todo Ment](https://todoment.vercel.app): Reactjs & Django & Mysql**
-- **[SimpleBlog](https://designui.infinityfreeapp.com): Laravel**
-- **[Tour](https://calebkwizera.vercel.app/): Nextjs**
-
 ### Stats ![Profile Views](https://komarev.com/ghpvc/?username=KWIZERA-CALEB&color=blue&style=flat-square)
 <div style="display: flex; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=KWIZERA-CALEB&show_icons=true&count_private=true&include_all_commits=true&theme=radical" style="width: 350px;" alt="GitHub Contributions Graph">
