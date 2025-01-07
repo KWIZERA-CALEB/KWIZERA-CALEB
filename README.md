@@ -4,9 +4,9 @@
 - 💬 Feel free to reach out to me [LinkedIn](https://www.linkedin.com/in/kwizera-caleb-391716292/) | [Portfolio](https://calebkwizera.vercel.app/)
 
 ### Tech Stack
-- **Front-end**: React JS, Nextjs, Tailwind CSS, Jquery
+- **Front-end**: React JS, Nextjs, Tailwind CSS, Jquery, Bootstrap, NextUI, Ant design
 - **Back-end**: PHP, Laravel, Django, Python, Node js
-- **Machine Learning**: Tensorflow
+- **Machine Learning**: Tensorflow, Numpy
   
 ### Stats ![Profile Views](https://komarev.com/ghpvc/?username=KWIZERA-CALEB&color=blue&style=flat-square)
 <div style="display: flex; gap: 10px;">
