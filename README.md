@@ -2,7 +2,7 @@
 **Am Caleb Kwizera**<br>
 👨‍💻 I specialize in Full stack development | Machine Learning, and I'm always eager to explore new technologies.
 💬 Feel free to reach out to me [LinkedIn](https://www.linkedin.com/in/kwizera-caleb-391716292/) | [Portfolio](https://calebkwizera.vercel.app/)
-
+Currently exploring Blockchain tech.<br>
 **Tech Stack**
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
